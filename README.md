@@ -1,16 +1,34 @@
-### Hi there 👋
 
-<!--
-**SoraY677/SoraY677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 自己紹介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+はじめまし後でやるraY677といいます。  
+
+将来の夢は一億円稼ぐつよつよCEOです！どうぞよろしく。
+
+## 得意な言語
+
+- 🌜C++ (競技プログラミング)
+- 🌚JavaScript (フロントエンド) 
+- 🐦Kotlin (サーバーサイド、全般)
+- 🐍Python (AI系)
+
+
+## 開発経験・経歴
+
+### 言語
+
+- C/C++ 中学生の頃から
+- JavaScript 大学3年生
+- Kotlin 大学3年生
+- Python　ここ最近
+
+### 技術
+
+ちょっと前までフロントエンド🖥ばかりしてました。  
+古めのAI(進化計算アルゴリズムってやつ)やっています。  
+新しめのは最近始めたばかり  
+
+## プロダクト一覧
+
+// TODO:後でやる
