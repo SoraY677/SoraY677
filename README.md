@@ -75,12 +75,10 @@
 
 
 <a href='http://dev.mysql.com/'>
-<img src='https://dev.mysql.com/common/logos/mysql-logo.svg
-' width='80px' height='80px' style="display:inline-block;"></a>
+<img src='https://dev.mysql.com/common/logos/mysql-logo.svg' width='80px' height='80px' style="display:inline-block;"></a>
 
 <a href='https://www.firebase.com/'>
-<img src='https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/firebase/images/touchicon-180.png
-' width='80px' height='px'style="display:inline-block;"></a>
+<img src='https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/firebase/images/touchicon-180.png' width='80px' height='px'style="display:inline-block;"></a>
 
 <a href='https://www.docker.com/'>
 <img src='https://cdn.svgporn.com/logos/docker-icon.svg' width='80px' height='80px' style="display:inline-block;"></a>
