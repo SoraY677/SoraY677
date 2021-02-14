@@ -1,34 +1,76 @@
+# 概要
+
+本レポジトリは著者(以下、SoraY677とする。)について、その技術や経験、現在の思考等に簡潔に記載し、他者に対する自己紹介として活用する。  
+
+あくまでも簡易的に紹介するためだけに収まるため、より詳しく知りたい場合には、後述するポートフォリオの問い合わせページよりご連絡願いたい。  
+
+また、SoraY677は本レポジトリを読んでいただいたすべての方に大きな感謝を表すとともに、修正やアドバイスなどを喜んで聞き受け、検討するものとする。  
+
+👽 <アドバイス、ヨロデス。  
+
+# 所持技術について
 
 
-## 自己紹介
+[![](https://raw.githubusercontent.com/SoraY677/SoraY677/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-はじめましてSoraY677といいます。  
+## 技術一覧
+[<img src='https://cdn.svgporn.com/logos/html-5.svg' width='80px' height='80px' style="display:inline-block;">](http://www.htmq.com/html5/)
 
-将来の夢は一億円稼ぐつよつよCEOです！💰どうぞよろしく。
+[<img src='https://cdn.svgporn.com/logos/css-3.svg' width='80px' height='80px' style="display:inline-block;">](http://www.w3.org/TR/CSS/)
 
-## 得意な言語
-
-- 🌜C++ (競技プログラミング)
-- 🌚JavaScript (フロントエンド) 
-- 🐦Kotlin (サーバーサイド、全般)
-- 🐍Python (AI系)
+[<img src='https://cdn.svgporn.com/logos/javascript.svg' width='80px' height='80px' style="display:inline-block;">](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 
 
-## 開発経験・経歴
+[<img src='https://cdn.svgporn.com/logos/webpack.svg' width='80px' height='80px' style="display:inline-block;">](http://webpack.github.io/)
 
-### 言語
 
-- C/C++ 中学生の頃から
-- JavaScript 大学3年生
-- Kotlin 大学3年生
-- Python　ここ最近
+[<img src='https://jp.vuejs.org/images/logo.png' width='80px' height='80px' style="display:inline-block;">](https://jp.vuejs.org/index.html)
 
-### 技術
+[<img src='https://cdn.svgporn.com/logos/nuxt-icon.svg' width='80px' height='80px' style="display:inline-block;">](https://ja.nuxtjs.org/)
 
-ちょっと前までフロントエンド🖥ばかりしてました。  
-古めのAI(進化計算アルゴリズムってやつ)やっています。  
-新しめのは最近始めたばかり  
+[<img src='https://cdn.svgporn.com/logos/bootstrap.svg' width='80px' height='80px' style="display:inline-block;">](http://getbootstrap.com/)
 
-## プロダクト一覧
+[<img src='https://cdn.svgporn.com/logos/vuetifyjs.svg' width='80px' height='80px' style="display:inline-block;">](https://vuetifyjs.com/)
 
-// TODO:後でやる
+[<img src='https://cdn.svgporn.com/logos/tailwindcss-icon.svg' width='80px' height='80px' style="display:inline-block;">](https://tailwindcss.com/)
+
+[<img src='https://cdn.svgporn.com/logos/ionic-icon.svg' width='80px' height='80px' style="display:inline-block;">](http://ionicframework.com/)
+
+
+
+[<img src='https://cdn.svgporn.com/logos/php.svg' width='80px' height='80px' style="display:inline-block;">](http://php.net/)
+
+[<img src='https://cdn.svgporn.com/logos/nodejs.svg' width='80px' height='80px' style="display:inline-block;">](https://nodejs.org/)
+
+[<img src='https://cdn.svgporn.com/logos/python.svg' width='80px' height='80px' style="display:inline-block;">](https://www.python.org/)
+
+
+[<img src='https://cdn.svgporn.com/logos/c.svg' width='80px' height='80px' style="display:inline-block;">](https://en.wikipedia.org/wiki/C_(programming_language))
+
+[<img src='https://cdn.svgporn.com/logos/c-plusplus.svg' width='80px' height='80px' style="display:inline-block;">](https://isocpp.org/)
+
+[<img src='https://cdn.svgporn.com/logos/java.svg' width='80px' height='80px' style="display:inline-block;">](https://www.java.com/)
+
+[<img src='https://cdn.svgporn.com/logos/kotlin.svg' width='80px' height='80px' style="display:inline-block;">](http://kotlinlang.org/)
+
+
+[<img src='https://cdn.svgporn.com/logos/mysql.svg
+' width='80px' height='80px' style="display:inline-block;">](http://dev.mysql.com/)
+
+[<img src='https://cdn.svgporn.com/logos/firebase.svg
+' width='80px' height='80px' style="display:inline-block;">](https://www.firebase.com/)
+
+[<img src='https://cdn.svgporn.com/logos/docker-icon.svg' width='80px' height='80px' style="display:inline-block;">](https://www.docker.com/)
+
+[<img src='https://cdn.svgporn.com/logos/git-icon.svg' width='80px' height='80px' style="display:inline-block;">](https://git-scm.com/)
+
+## ポートフォリオ
+
+[![](./img/portfolio.png)](https://soray677-portfolio.netlify.app/)
+
+
+
+## その他
+
+- [Atcoder(競技プログラミング)] (https://atcoder.jp/users/SoraY677)
+
