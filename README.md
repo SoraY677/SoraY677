@@ -86,6 +86,9 @@
 <a href='https://git-scm.com/'>
 <img src='https://cdn.svgporn.com/logos/git-icon.svg' width='80px' height='80px' style="display:inline-block;"></a>
 
+<a href='https://cakephp.org/'>
+<img src='https://cdn.svgporn.com/logos/cakephp-icon.svg' width='80px' height='80px' style="display:inline-block;"></a>
+
 ## ポートフォリオ
 
 [![](./img/portfolio.png)](https://soray677-portfolio.netlify.app/)
