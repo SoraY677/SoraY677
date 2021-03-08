@@ -97,5 +97,5 @@
 
 ## その他
 
-- [Atcoder(競技プログラミング)] (https://atcoder.jp/users/SoraY677)
+- [Atcoder(競技プログラミング)](https://atcoder.jp/users/SoraY677)
 
