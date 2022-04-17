@@ -20,3 +20,13 @@ I work as Web-Engineer mainly. but, solve any IT problems as flexible.
 |Otani-lab|[<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" />](https://www.comm.tcu.ac.jp/otani-lab/)|
 |Noted | [<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/84720167.png?raw=true" />](https://noted.run/)|
 |Raxsy|[<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/88580928.jpg?raw=true" />](https://raxsy.life/)|
+
+## 🔖Licence
+
+|name|img|date|
+|:---:|:---:|:---:|
+|IT-passport| | |
+|FE(IPA)||
+|AP(IPA)||
+|Deep Learning for GENERAL|||
+||||
