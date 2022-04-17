@@ -23,10 +23,12 @@ I work as Web-Engineer mainly. but, solve any IT problems as flexible.
 
 ## 🔖Licence
 
-|name|img|date|
-|:---:|:---:|:---:|
-|IT-passport|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />| |
-|FE(IPA)|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />|
-|AP(IPA)|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />|
-|Deep Learning for GENERAL|||
-||||
+- FE(IPA)
+  - 2017.11
+- AP(IPA)
+  - 2019.6
+- Deep Learning for GENERAL
+  - 2020.11
+- AWS Certified Solutions Architect – Associate
+  - 2022.4
+
