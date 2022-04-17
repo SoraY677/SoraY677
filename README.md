@@ -25,8 +25,8 @@ I work as Web-Engineer mainly. but, solve any IT problems as flexible.
 
 |name|img|date|
 |:---:|:---:|:---:|
-|IT-passport| | |
-|FE(IPA)||
-|AP(IPA)||
+|IT-passport|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />| |
+|FE(IPA)|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />|
+|AP(IPA)|<img height="60px" src="https://raw.githubusercontent.com/SoraY677/SoraY677/51c571903e925e232ca13e7f6332ddc126fc87bc/img/NoImage.svg" />|
 |Deep Learning for GENERAL|||
 ||||
