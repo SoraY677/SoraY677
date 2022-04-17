@@ -34,13 +34,13 @@ I work as Web-Engineer mainly. but, solve any IT problems as flexible.
 
 ## 🔖 Licence
 
-- FE(IPA)
+- [FE(IPA)](https://www.jitec.ipa.go.jp/1_11seido/fe.html)
   - 2017.11
-- AP(IPA)
+- [AP(IPA)](https://www.jitec.ipa.go.jp/1_11seido/ap.html)
   - 2019.6
-- Deep Learning for GENERAL
+- [Deep Learning for GENERAL](https://www.jdla.org/certificate/general/)
   - 2020.11
-- AWS Certified Solutions Architect – Associate
+- [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)
   - 2022.4
 
 ## 📮 Contact 
