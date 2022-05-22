@@ -24,12 +24,6 @@ I work as Web-Engineer mainly. but, solve any IT problems as flexible.
 ### blog
 [<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/logo-background-color.png?raw=true"/>](https://qiita.com/SoraY677)
 
-## 🤝 Organization
-
-|o-lab|Noted|Raxsy|
-|:---:|:---:|:---:|
-[<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" />](https://www.comm.tcu.ac.jp/otani-lab/)| [<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/84720167.png?raw=true" />](https://noted.run/)|<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/88580928.jpg?raw=true" />|
-
 ## 🔖 Licence
 
 - [FE(IPA)](https://www.jitec.ipa.go.jp/1_11seido/fe.html)
