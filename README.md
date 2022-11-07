@@ -33,7 +33,7 @@
 |OtaniLab|Noted|
 |:---:|:---:|
 |[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" height="70">](https://www.comm.tcu.ac.jp/otani-lab/)|[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/84720167.png?raw=true" height="70">](https://noted.run/)|
-|20years-(University)|21years-|
+|20years-<br>(University)|21years-|
 
 # Certifications
 
@@ -46,6 +46,7 @@
 
 # Others
 
+【Atcoder】Rate.Gray/249 <br>
 <img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" width="80">
-## 【Atcoder】Rate.Gray/249
+
 
