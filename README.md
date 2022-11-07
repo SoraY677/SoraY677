@@ -41,8 +41,8 @@
 |:---:|:----|
 |<img src="https://raw.githubusercontent.com/SoraY677/SoraY677/daff80e1ab35d7d201ffeaa82d4117ad95bbc44c/img/NoImage.svg" width="90" height="90">|<h3>[FE(基本情報技術者)](https://www.jitec.ipa.go.jp/1_11seido/fe.html)</h3><br/>2017.6.21- |
 |<img src="https://raw.githubusercontent.com/SoraY677/SoraY677/daff80e1ab35d7d201ffeaa82d4117ad95bbc44c/img/NoImage.svg" width="90" height="90">|<h3>[AP(応用情報技術者)](https://www.jitec.ipa.go.jp/1_11seido/ap.html)</h3><br/>2019.11.15-|
-|<img src="https://github.com/SoraY677/SoraY677/blob/main/img/certification/general2020%233_smal.png?raw=true" height="90">|<h3>[Deep Learning for GENERAL](https://www.jdla.org/certificate/general/)</h3><br/>2020.11.24-|
-|<img src="https://github.com/SoraY677/SoraY677/blob/main/img/certification/aws-certified-solutions-architect-associate.png?raw=true" width="90" height="90">|<h3>[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)</h3><br/> 2022.04.16 - 2025.04.16|
+|<img src="https://github.com/SoraY677/SoraY677/blob/main/img/certification/general2020%233_smal.png?raw=true" width="90">|<h3>[Deep Learning for GENERAL](https://www.jdla.org/certificate/general/)</h3><br/>2020.11.24-|
+|<img src="https://github.com/SoraY677/SoraY677/blob/main/img/certification/aws-certified-solutions-architect-associate.png?raw=true" width="90">|<h3>[AWS Certified Solutions Architect – Associate](https://aws.amazon.com/jp/certification/certified-solutions-architect-associate/)</h3><br/> 2022.04.16 - 2025.04.16|
 
 # Others
 
