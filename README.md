@@ -26,7 +26,7 @@
 
 ## 表情を読んでブラフを仕掛けてくるポーカーAI (大学卒業研究)
 
-<img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="140px"/>
+<img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="15%"/>
 
 `released:2021.3` / 
 [概要を読む📖](https://www.comm.tcu.ac.jp/otani-lab/research/bachelor/1772091.pdf)
@@ -42,7 +42,7 @@
 
 ## ピクトスタジオ
 
-<img align="left" src="https://pict-studio.raxsy.life/favicon.png" width="140"/>
+<img align="left" src="https://pict-studio.raxsy.life/favicon.png" width="15%"/>
 
 `released:2022.6` / [サービスを見てみる👀](https://pict-studio.raxsy.life/)
 
