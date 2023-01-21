@@ -40,7 +40,7 @@
 
 ## ピクトスタジオ
 
-<img align="left" src="https://pict-studio.raxsy.life/favicon.png" width="140px"/>
+<img align="left" src="https://pict-studio.raxsy.life/favicon.png" width="140"/>
 
 `released:2022.6`
 ```
@@ -73,7 +73,14 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 # Others
 
-【Atcoder】Rate.Gray/249 <br>
-<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" width="80">
+<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" height="110" align="left">
 
+### AtCoder
+競技プログラミングも一応経験したことあります  
+Rate: Gray/249 
 
+<img src="https://user-images.githubusercontent.com/46548311/213887769-9c7f656c-be42-490e-8ef8-fbffc66c8ca4.png" height="110" align="left">
+
+### 進化計算コンペティション（進化計算学会）
+毎回様々な現実に即した問題を進化計算という最適化手法で解決しようと挑んでいます。  
+これまで計3回参加経験があります。
