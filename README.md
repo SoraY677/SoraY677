@@ -24,7 +24,33 @@
 
 # Products
 
-[TODO]
+## 表情を読んでブラフを書けてくるポーカーAI (大学卒業研究)
+
+<img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="140px"/>
+
+`released:2021.3`
+```
+コンピュータがユーザを理解し、ユーザとの関わりを確立する一助としてポーカーを題材にした卒業研究を行いました。
+この研究で開発したシステムはブラウザ上で動作します。ユーザの表情をリアルタイムに読み取り、
+それをAIに情報の一つとして与えることで、AIはユーザの癖を見抜きその人専用の良い対戦相手として成長していくのです。
+ぜひ皆さんにも遊んでいただいて楽しんでもらえればと考えております。
+```
+
+[概要を読む📖](https://www.comm.tcu.ac.jp/otani-lab/research/bachelor/1772091.pdf)・システム準備中🚧
+
+## ピクトスタジオ
+
+<img align="left" src="https://pict-studio.raxsy.life/favicon.png" width="140px"/>
+
+`released:2022.6`
+```
+個人開発で作成し、現在公開中のサービスです。
+Web上で自由にピクトグラムを動かして好きなアイコンを作成できます！
+資料などに追加するイラストがなくて困っている方や膨大な情報からピッタリのアイコンが見つからないそこのあなた！
+探すのではなく'創ってしまう'なんていかがでしょう？
+```
+
+[サービスを見てみる👀](https://pict-studio.raxsy.life/)
 
 # Blog
 [<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/logo-background-color.png?raw=true"/>](https://qiita.com/SoraY677)
