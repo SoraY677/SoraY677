@@ -24,7 +24,7 @@
 
 # Products
 
-## 表情を読んでブラフを書けてくるポーカーAI (大学卒業研究)
+## 表情を読んでブラフを仕掛けてくるポーカーAI (大学卒業研究)
 
 <img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="140px"/>
 
