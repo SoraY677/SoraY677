@@ -74,11 +74,13 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 # Others
 
-<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" height="110" align="left">
+<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" height="100" align="left">
 
 ### AtCoder
 競技プログラミングも一応経験したことあります  
 Rate: Gray/249 
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/46548311/213887769-9c7f656c-be42-490e-8ef8-fbffc66c8ca4.png" height="110" align="left">
 
