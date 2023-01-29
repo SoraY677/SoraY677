@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Sora Yamaguchi
+# Sora YAMAGUCHI
 ###  Web Developer + α
 <img src="https://cdn.svgporn.com/logos/vue.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="60">
