@@ -1,8 +1,11 @@
 ![](https://img.shields.io/github/last-commit/SoraY677/SoraY677)
 
 <div align="center">
-
+ 
 # Sora YAMAGUCHI
+ 
+<img src="https://avatars.githubusercontent.com/u/46548311?s=120&v=4"  width="80"/>
+ 
 ###  Web Developer + α
 <img src="https://cdn.svgporn.com/logos/vue.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="60">
