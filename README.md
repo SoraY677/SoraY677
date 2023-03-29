@@ -31,7 +31,7 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="15%"/>
 
-`released:2021.3` / 
+`published:2021.3` / 
 [概要を読む📖](https://www.comm.tcu.ac.jp/otani-lab/research/bachelor/1772091.pdf)
  ・システム準備中🚧
 
