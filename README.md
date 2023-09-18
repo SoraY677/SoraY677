@@ -10,7 +10,10 @@
 <img src="https://cdn.svgporn.com/logos/vue.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/kotlin-icon.svg" width="60">
+<img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/python.svg" width="60">
+<img src="https://cdn.svgporn.com/logos/aws.svg" width="60">
+
 
 <br><br>
 
