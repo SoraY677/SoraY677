@@ -6,7 +6,7 @@
  
 <img src="https://avatars.githubusercontent.com/u/46548311?s=120&v=4"  width="80"/>
  
-###  Web Developer + α
+###  Web / ML Developer
 <img src="https://cdn.svgporn.com/logos/vue.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/javascript.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/kotlin-icon.svg" width="60">
