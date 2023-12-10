@@ -80,16 +80,36 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 # Others
 
-<img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" height="100" align="left">
+### ハッカソン
+学生の頃に様々なハッカソンに参加していました。
+以下は一部記録です。
+- [サマーハッカソン](https://docs.google.com/presentation/d/1ERukzdo4WZiKEWT26RRP2hUVEvxI--zdpxyC6ac23U4/edit?usp=sharing)
+- Yahoo Hack Day2021
+- Yahoo Hack Day2019
+- [HackU 2020](https://docs.google.com/presentation/d/1WlkjDiBDHRh1hvFM5gPDbpzC_ulCuU7jC-wHMagtETM/edit?usp=sharing)
+- LocalHackDay 2019
+- [Greeg Hackthon2020](https://docs.google.com/presentation/d/1zTezE3UvcV4I94-VsXZlN2-DX9QcNr1bHipSSeRL5J4/edit?usp=sharing)
 
 ### AtCoder
-競技プログラミングも一応経験したことあります  
+競技プログラミングも一時参加していました。
+
 Rate: Gray/249 
+https://atcoder.jp/?lang=ja
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/46548311/213887769-9c7f656c-be42-490e-8ef8-fbffc66c8ca4.png" height="110" align="left">
 
 ### 進化計算コンペティション（進化計算学会）
 毎回様々な現実に即した問題を進化計算という最適化手法で解決しようと挑んでいます。  
 これまで計3回参加経験があります。
+https://ec-comp.jpnsec.org/ja
+- 2020年: ゲームを楽しくする乱数の設計: [GAと焼きなまし法を用いたゲームを楽しくする乱数の生成手法提案](https://docs.google.com/presentation/d/1n985njJ_NF0Ham8HQJ1IPl9y7m5ubBCK/edit#slide=id.p1)
+- 2021年: 社会シミュレーションによる経済支援施策の設計: [蜂コロニーアルゴリズムを応用した局所解に陥らない汎用ソルバの開発](https://docs.google.com/presentation/d/1icmMnyKHwFYU8dBc2kRP9QpN1nXZQoRDEszbPMsWICg/edit?usp=sharing)
+- 2022年: 群集シミュレーションを用いた発生交通量推定: [GAを応用した群衆行動の傾向予測](https://docs.google.com/presentation/d/1j1Y6-gmTdBRDLzLA213cWAYbSJSmuZdpBaBstioGRC8/edit?usp=sharing)
+
+<br>
+
+### ISUCON
+お題となるWebサービスを決められたレギュレーションと制限時間の中で高速化を図るチューニングコンテストです。
+これまで計2回参加経験があります。
+- 2022年: [ISUCON12予選参加](https://isucon.net/archives/56571716.html): 4144点
+- 2023年: [ISUCON13本戦参加](https://isucon.net/archives/57801192.html): 16292点 (再起動の試験失格で0点)
