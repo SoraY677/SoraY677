@@ -90,25 +90,18 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 - LocalHackDay 2019
 - [Greeg Hackthon2020](https://docs.google.com/presentation/d/1zTezE3UvcV4I94-VsXZlN2-DX9QcNr1bHipSSeRL5J4/edit?usp=sharing)
 
-### AtCoder
-競技プログラミングも一時参加していました。
+### [AtCoder](https://atcoder.jp/?lang=ja)
+競技プログラミングも一時参加していました。  
+Rate: Gray/249  
 
-Rate: Gray/249 
-https://atcoder.jp/?lang=ja
-
-<br>
-
-### 進化計算コンペティション（進化計算学会）
-毎回様々な現実に即した問題を進化計算という最適化手法で解決しようと挑んでいます。  
-これまで計3回参加経験があります。
-https://ec-comp.jpnsec.org/ja
+### [進化計算コンペティション（進化計算学会）](https://ec-comp.jpnsec.org/ja)
+現実に即した様々な問題を進化計算という最適化手法で解決しようするコンペティションです。以下に参加しました。  
 - 2020年: ゲームを楽しくする乱数の設計: [GAと焼きなまし法を用いたゲームを楽しくする乱数の生成手法提案](https://docs.google.com/presentation/d/1n985njJ_NF0Ham8HQJ1IPl9y7m5ubBCK/edit#slide=id.p1)
 - 2021年: 社会シミュレーションによる経済支援施策の設計: [蜂コロニーアルゴリズムを応用した局所解に陥らない汎用ソルバの開発](https://docs.google.com/presentation/d/1icmMnyKHwFYU8dBc2kRP9QpN1nXZQoRDEszbPMsWICg/edit?usp=sharing)
 - 2022年: 群集シミュレーションを用いた発生交通量推定: [GAを応用した群衆行動の傾向予測](https://docs.google.com/presentation/d/1j1Y6-gmTdBRDLzLA213cWAYbSJSmuZdpBaBstioGRC8/edit?usp=sharing)
+- 2023年: 機械加工スケジューリング問題: 遺伝的k-meansアルゴリズムを用いた機械加工スケジューリングの最適化手法
 
-<br>
-
-### ISUCON
+### [ISUCON](https://isucon.net)
 お題となるWebサービスを決められたレギュレーションと制限時間の中で高速化を図るチューニングコンテストです。
 これまで計2回参加経験があります。
 - 2022年: [ISUCON12予選参加](https://isucon.net/archives/56571716.html): 4144点
