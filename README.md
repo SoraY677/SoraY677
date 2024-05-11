@@ -67,7 +67,7 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 |OtaniLab|Noted|
 |:---:|:---:|
 |[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" height="70">](https://www.comm.tcu.ac.jp/otani-lab/)|[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/84720167.png?raw=true" height="70">](https://noted.run/)|
-|20years-<br>(University)|21years-|
+|2020-<br>(University)|2021-|
 
 # Certifications
 
