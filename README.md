@@ -17,8 +17,7 @@
 
 <br><br>
 
-### Contact to me! 👇
-### https://forms.gle/U6TitZDLi14q6n2FA
+### [Contact 📬](https://forms.gle/huP4UNecBm36ir7dA)
 
 <br><br>
 
