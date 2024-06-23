@@ -71,7 +71,7 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 |OtaniLab|Noted|
 |:---:|:---:|
-|[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" height="70">](https://www.comm.tcu.ac.jp/otani-lab/)|[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/84720167.png?raw=true" height="70">](https://noted.run/)|
+|[<img src="https://github.com/SoraY677/SoraY677/blob/main/img/orgnization/49579011.png?raw=true" height="70">](https://www.comm.tcu.ac.jp/otani-lab/)|[<img src="https://github.com/SoraY677/SoraY677/assets/46548311/74fb2399-6f38-45d3-bb6b-c65922b76814" height="70">](https://noted.run/)|
 |2020-<br>(University)|2021-|
 
 # Certifications
@@ -85,9 +85,7 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 # Others
 
-### ハッカソン
-学生の頃に様々なハッカソンに参加していました。
-以下は一部記録です。
+### 参加ハッカソン
 - [サマーハッカソン](https://docs.google.com/presentation/d/1ERukzdo4WZiKEWT26RRP2hUVEvxI--zdpxyC6ac23U4/edit?usp=sharing)
 - Yahoo Hack Day2021
 - Yahoo Hack Day2019
