@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/last-commit/SoraY677/SoraY677)
-
 <div align="center">
  
 # Sora YAMAGUCHI
@@ -62,8 +60,11 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 探すのではなく'創ってしまう'なんていかがでしょう？
 ```
 
-# Blog
-[<img height="60px" src="https://github.com/SoraY677/SoraY677/blob/main/img/logo-background-color.png?raw=true"/>](https://qiita.com/SoraY677)
+# Blogs
+[<img height="80px" src="https://github.com/SoraY677/SoraY677/blob/main/img/logo-background-color.png?raw=true"/>](https://qiita.com/SoraY677)
+[<img height="80px" src=https://github.com/SoraY677/SoraY677/assets/46548311/08660409-96e9-4e7d-b3a6-72ffb07d52b1) />](https://zenn.dev/soray677)
+[<img height="80px" src="https://github.com/SoraY677/SoraY677/assets/46548311/74fb2399-6f38-45d3-bb6b-c65922b76814">](https://noted.run/author/soray/)
+
 
 # Organize
 
