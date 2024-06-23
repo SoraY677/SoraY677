@@ -17,7 +17,11 @@
 
 <br><br>
 
-### [Contact 📬](https://forms.gle/huP4UNecBm36ir7dA)
+---
+
+### [📬 Free to Contact me!](https://forms.gle/huP4UNecBm36ir7dA)
+
+
 
 <br><br>
 
