@@ -32,6 +32,16 @@
 
 # Products
 
+## SUBS
+
+`released:2024.7` / [サービスを見てみる👀](https://subs.raxsy.life/?mode=demo)
+
+```
+「ちょっと動画に字幕を付けたいだけなのに…」そんな方におすすめ。動画に字幕を付けるためのアプリをご紹介です。
+タイムライン表示やリアルタイムプレビューを使って、直感的にテキストやタイミングの調整が可能です。
+ネット上に動画をアップロードせずローカルで完結するため、プライバシーを重視しながら、スムーズな字幕編集をサポートします。
+```
+
 ## 表情を読んでブラフを仕掛けてくるポーカーAI (大学卒業研究)
 
 <img align="left" src="https://user-images.githubusercontent.com/46548311/213887490-602100b1-b1e6-4742-9538-568f324b8f1c.png" width="15%"/>
@@ -86,12 +96,14 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 # Others
 
 ### Hackthon
+- 都知事杯オープンデータ・ハッカソン 2024
 - [サマーハッカソン](https://docs.google.com/presentation/d/1ERukzdo4WZiKEWT26RRP2hUVEvxI--zdpxyC6ac23U4/edit?usp=sharing)
-- Yahoo Hack Day2021
-- Yahoo Hack Day2019
+- [Yahoo Hack Day2021](https://github.com/SoraY677/HackDay2021-Frontend)
 - [HackU 2020](https://docs.google.com/presentation/d/1WlkjDiBDHRh1hvFM5gPDbpzC_ulCuU7jC-wHMagtETM/edit?usp=sharing)
-- LocalHackDay 2019
 - [Greeg Hackthon2020](https://docs.google.com/presentation/d/1zTezE3UvcV4I94-VsXZlN2-DX9QcNr1bHipSSeRL5J4/edit?usp=sharing)
+- [Yahoo Hack Day2019](https://www.youtube.com/live/HNjXZwRTybU?t=6151s)
+- [LocalHackDay 2019](https://github.com/SoraY677/LocalHackDay2019)
+
 
 ### [AtCoder](https://atcoder.jp/?lang=ja)
 Rate: Gray/249  
