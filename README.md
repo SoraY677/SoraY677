@@ -32,9 +32,9 @@
 
 # Products
 
-## SUBS
+## 字幕くん
 
-`released:2024.7` / [サービスを見てみる👀](https://subs.raxsy.life/?mode=demo)
+`released:2024.7` / [サービスを見てみる👀](https://jimaku.noted.run/?mode=demo)
 
 ```
 「ちょっと動画に字幕を付けたいだけなのに…」そんな方におすすめ。動画に字幕を付けるためのアプリをご紹介です。
