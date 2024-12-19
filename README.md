@@ -97,7 +97,8 @@ Web上で自由にピクトグラムを動かして好きなアイコンを作�
 
 # Others
 
-### Hackthon
+### ハッカソン
+
 - [都知事杯オープンデータ・ハッカソン 2024](https://www.youtube.com/watch?v=B--Pl4bJK_A&t=13195s)
 - [サマーハッカソン](https://docs.google.com/presentation/d/1ERukzdo4WZiKEWT26RRP2hUVEvxI--zdpxyC6ac23U4/edit?usp=sharing)
 - [Yahoo Hack Day2021](https://github.com/SoraY677/HackDay2021-Frontend)
