@@ -7,7 +7,7 @@
 ###  Web / ML Developer
 <img src="https://cdn.svgporn.com/logos/react.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" width="60">
-<img src="https://cdn.svgporn.com/logos/javascript.svg" width="60">
+<img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/kotlin-icon.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/python.svg" width="60">
