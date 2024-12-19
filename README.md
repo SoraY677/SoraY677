@@ -34,6 +34,8 @@
 
 ## 字幕くん
 
+<img align="left" src="https://github.com/user-attachments/assets/cc79298d-5893-420d-998b-b37f8b2d5494" width="15%"/>
+
 `released:2024.7` / [サービスを見てみる👀](https://jimaku.noted.run/?mode=demo)
 
 ```
