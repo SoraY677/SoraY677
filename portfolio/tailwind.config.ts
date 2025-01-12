@@ -17,6 +17,30 @@ export default {
         Raleway: ["Sawarabi Gothic", "serif"],
       },
     },
+    fontSize: {
+      "2xl": [
+        "2rem",
+        {
+          lineHeight: "2.2rem",
+          fontWeight: "900",
+        },
+      ],
+      xl: [
+        "1.6rem",
+        {
+          lineHeight: "1.8rem",
+          fontWeight: "700",
+        },
+      ],
+
+      lg: [
+        "1.3rem",
+        {
+          lineHeight: "1.4rem",
+          fontWeight: "500",
+        },
+      ],
+    },
   },
   plugins: [],
 } satisfies Config;
