@@ -1,5 +1,5 @@
-import { Link, BrowserRouter } from "react-router-dom";
 import useIsClientHook from "../hooks/useIsClientHook";
+import Link from "next/link";
 
 type Props = {
   routes?: Routes;
@@ -10,19 +10,15 @@ const Menu = ({ routes = [] }: Props) => {
 
   if (!isClient) return <></>;
   return (
-    <>
-      {routes && (
-        <BrowserRouter>
-          {routes.map((v) => {
-            return (
-              <Link to={v.path} key={v.path}>
-                {v.text}{" "}
-              </Link>
-            );
-          })}
-        </BrowserRouter>
-      )}
-    </>
+    <div>
+      {routes.map((v) => {
+        return (
+          <Link href={v.path} key={v.path}>
+            {v.text}
+          </Link>
+        );
+      })}
+    </div>
   );
 };
 
