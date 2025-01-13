@@ -33,7 +33,7 @@ export default function CommonLayout({ children }: Props) {
         )}
         {children}
       </div>
-      <nav className="absolute right-0 bottom-0 text-lg md:mb-10 md:mr-10 mb-3 mr-3">
+      <nav className="absolute right-0 bottom-0 text-lg md:mb-10 md:mr-10 mb-5 mr-8">
         <Menu routes={routeList} />
       </nav>
     </main>

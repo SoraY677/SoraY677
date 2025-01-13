@@ -1,6 +1,4 @@
-import Menu from "../components/Menu";
 import TypingText from "../components/TypingText";
-import { routeList } from "../config/MenuConfig";
 
 export default function Index() {
   return (

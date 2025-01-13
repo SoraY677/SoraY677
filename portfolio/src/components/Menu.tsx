@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import AppIcon from "../assets/AppIcon";
 import useIsClientHook from "../hooks/useIsClientHook";
 import Link from "next/link";
@@ -16,16 +16,33 @@ const Menu = ({ routes = [] }: Props) => {
   const isClient = useIsClientHook();
   const [isOpen, setIsOpen] = useState<boolean>(true);
 
-  const [itemSize, setItemSize] = useState<number>(0);
-  const menuItemPosList = useMemo(() => {
-    if (isClient && itemSize) {
-      return calcMenuItemPosList(
-        itemSize * DISTANCE_MAGNIFICATION,
+  const [menuItemPosList, setMenuItemPosList] = useState<[number, number][]>(
+    []
+  );
+
+  /**
+   * メニューの位置調整用に監視
+   */
+  const [firstItem, setFirstItem] = useState<HTMLLIElement | null>(null);
+  const firstItemRef = useRef<HTMLLIElement | null>(null);
+  firstItemRef.current = firstItem;
+  const setMenuItemPosListHandler = () => {
+    setMenuItemPosList(
+      calcMenuItemPosList(
+        (firstItemRef.current?.getBoundingClientRect().width ?? 0) *
+          DISTANCE_MAGNIFICATION,
         routes.length,
         ADJUST_MAGNIFICATION
-      );
-    }
-  }, [isClient, itemSize]);
+      )
+    );
+  };
+  useEffect(() => {
+    if (!firstItemRef.current) return;
+    setMenuItemPosListHandler();
+    window.addEventListener("resize", () => {
+      setMenuItemPosListHandler();
+    });
+  }, [firstItemRef.current]);
 
   if (!isClient) return <></>;
   return (
@@ -35,10 +52,11 @@ const Menu = ({ routes = [] }: Props) => {
           return (
             <li
               key={`${route.path}-${index}`}
-              ref={(node: HTMLLIElement | null) => {
-                if (index !== 0) return;
-                const width = node?.getBoundingClientRect().width ?? 0;
-                setItemSize(width);
+              ref={(node) => {
+                setFirstItem(node);
+              }}
+              onResize={() => {
+                console.log("test");
               }}
               className={`absolute duration-100 ${
                 isOpen ? "opacity-100 z-10" : "opacity-0 z-[-1]"
