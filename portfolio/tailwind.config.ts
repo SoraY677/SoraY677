@@ -16,6 +16,28 @@ export default {
       fontFamily: {
         Raleway: ["Sawarabi Gothic", "serif"],
       },
+      keyframes: {
+        floating: {
+          "0%": {
+            transform: "translate(-2px, -0px)",
+          },
+          "25%": {
+            transform: "translate(-2px, -1px)",
+          },
+          "50%": {
+            transform: "translate(0px, 0px)",
+          },
+          "75%": {
+            transform: "translate(-2px, -1px)",
+          },
+          "100%": {
+            transform: "translate(-2px, -1px)",
+          },
+        },
+      },
+      animation: {
+        floating: "floating 10s ease-in-out infinite alternate-reverse",
+      },
     },
     fontSize: {
       "2xl": [
@@ -38,6 +60,14 @@ export default {
         {
           lineHeight: "1.4rem",
           fontWeight: "500",
+        },
+      ],
+
+      sm: [
+        "0.8rem",
+        {
+          lineHeight: "1rem",
+          fontWeight: "300",
         },
       ],
     },
