@@ -65,6 +65,7 @@ const Profile = ({
               {Object.keys(baseInfoMap).map((key, index) => {
                 return (
                   <tr
+                    key={key}
                     className={` ${
                       index % 2 === 1 ? "bg-white" : "bg-gray-200"
                     }`}
