@@ -62,7 +62,13 @@ export default {
           fontWeight: "500",
         },
       ],
-
+      md: [
+        "1rem",
+        {
+          lineHeight: "1.2rem",
+          fontWeight: "400",
+        },
+      ],
       sm: [
         "0.8rem",
         {
