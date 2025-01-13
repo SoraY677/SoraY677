@@ -7,6 +7,7 @@ const IdeaIcon = () => {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
+      className="w-full h-full"
     >
       <g>
         <path
