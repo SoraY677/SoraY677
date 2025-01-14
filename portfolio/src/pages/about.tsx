@@ -1,4 +1,5 @@
 import Profile from "../components/Profile";
+import Skill from "../components/Skills";
 import {
   PROFILE_BASE_INFO_MAP,
   PROFILE_CONTENT,
@@ -6,6 +7,7 @@ import {
   PROFILE_IMAGES,
   PROFILE_NAME,
 } from "../config/ProfileConfig";
+import { SKILL_LIST } from "../config/SkillConfig";
 import ContentLayout from "../layouts/ContentLayout";
 
 const about = () => {
@@ -19,6 +21,9 @@ const about = () => {
           baseInfoMap={PROFILE_BASE_INFO_MAP}
           content={PROFILE_CONTENT}
         />
+        <section>
+          <Skill list={SKILL_LIST} />
+        </section>
       </>
     </ContentLayout>
   );
