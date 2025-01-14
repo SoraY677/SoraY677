@@ -1,5 +1,7 @@
+import Other from "../components/Other";
 import Profile from "../components/Profile";
 import Skill from "../components/Skills";
+import { OTHER_LIST } from "../config/OtherConfig";
 import {
   PROFILE_BASE_INFO_MAP,
   PROFILE_IMAGE_FADE_DURATION,
@@ -13,14 +15,19 @@ const about = () => {
   return (
     <ContentLayout title="ABOUT">
       <>
-        <Profile
-          images={PROFILE_IMAGES}
-          imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
-          name={PROFILE_NAME}
-          baseInfoMap={PROFILE_BASE_INFO_MAP}
-        />
-        <section>
+        <section className="mb-10">
+          <Profile
+            images={PROFILE_IMAGES}
+            imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
+            name={PROFILE_NAME}
+            baseInfoMap={PROFILE_BASE_INFO_MAP}
+          />
+        </section>
+        <section className="mb-10">
           <Skill list={SKILL_LIST} />
+        </section>
+        <section>
+          <Other list={OTHER_LIST} />
         </section>
       </>
     </ContentLayout>
