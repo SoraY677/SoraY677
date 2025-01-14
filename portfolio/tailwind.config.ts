@@ -41,22 +41,22 @@ export default {
     },
     fontSize: {
       "2xl": [
-        "2rem",
+        "1.6rem",
         {
-          lineHeight: "2.2rem",
+          lineHeight: "1.8rem",
           fontWeight: "900",
         },
       ],
       xl: [
-        "1.6rem",
+        "1.4rem",
         {
-          lineHeight: "1.8rem",
+          lineHeight: "1.6rem",
           fontWeight: "700",
         },
       ],
 
       lg: [
-        "1.3rem",
+        "1.2rem",
         {
           lineHeight: "1.4rem",
           fontWeight: "500",
@@ -73,6 +73,13 @@ export default {
         "0.8rem",
         {
           lineHeight: "1rem",
+          fontWeight: "300",
+        },
+      ],
+      xs: [
+        "0.7rem",
+        {
+          lineHeight: "0.8rem",
           fontWeight: "300",
         },
       ],
