@@ -6,16 +6,9 @@ type Props = {
   imageFadeDuration: number;
   name: string;
   baseInfoMap: { [key: string]: string };
-  content: string;
 };
 
-const Profile = ({
-  images,
-  imageFadeDuration,
-  name,
-  baseInfoMap,
-  content,
-}: Props) => {
+const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
   const [displayedImageIndex, setDisplayedImageIndex] = useState<number>(0);
 
   useIntervalHook(() => {
@@ -59,7 +52,6 @@ const Profile = ({
           <h2 className="text-xl border-b-2 border-b-black w-full mb-2 pb-3">
             {name}
           </h2>
-          <h3 className="text-md pb-2 text-lg">基本情報</h3>
           <table className="w-full">
             <tbody>
               {Object.keys(baseInfoMap).map((key, index) => {
@@ -79,14 +71,6 @@ const Profile = ({
           </table>
         </section>
       </div>
-      <section className="max-w-full p-4 border-y-2 border-black my-10">
-        <h2 className="text-md text-center w-full text-lg mb-3 font-bold">
-          For You!
-        </h2>
-        <pre className="whitespace-pre-wrap text-center leading-6 text-md">
-          {content}
-        </pre>
-      </section>
     </div>
   );
 };

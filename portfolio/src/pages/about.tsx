@@ -2,7 +2,6 @@ import Profile from "../components/Profile";
 import Skill from "../components/Skills";
 import {
   PROFILE_BASE_INFO_MAP,
-  PROFILE_CONTENT,
   PROFILE_IMAGE_FADE_DURATION,
   PROFILE_IMAGES,
   PROFILE_NAME,
@@ -19,7 +18,6 @@ const about = () => {
           imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
           name={PROFILE_NAME}
           baseInfoMap={PROFILE_BASE_INFO_MAP}
-          content={PROFILE_CONTENT}
         />
         <section>
           <Skill list={SKILL_LIST} />
