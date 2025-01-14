@@ -73,12 +73,6 @@ export const SKILL_LIST: SkillList = [
         content: "サイト内イベント計測・GA3からの移行",
         experience: "2year",
       },
-    ],
-    color: "#cd5c5c",
-  },
-  {
-    name: "Other",
-    skillList: [
       {
         name: "GitHub",
         image: "/skill/github.svg",
@@ -86,6 +80,6 @@ export const SKILL_LIST: SkillList = [
         experience: "2year",
       },
     ],
-    color: "#808080",
+    color: "#cd5c5c",
   },
 ];
