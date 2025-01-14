@@ -30,9 +30,6 @@ const SkillGroupContainer = ({
   item: SkillGroup;
   color: string;
 }) => {
-  const getBackground = () => {
-    return `color-mix(in srgb, #000 20%, transparent);`;
-  };
   return (
     <>
       <h3 className="mb-2 text-md font-bold">
