@@ -2,7 +2,7 @@ import { OtherList } from "../types/other";
 
 export const OTHER_LIST: OtherList = [
   {
-    name: "BLOG",
+    name: "🖊️BLOG",
     example: [
       {
         name: "noted",
@@ -19,7 +19,7 @@ export const OTHER_LIST: OtherList = [
     ],
   },
   {
-    name: "EVENT",
+    name: "🎟️EVENT",
     example: [
       {
         name: "conpass",
@@ -36,7 +36,7 @@ export const OTHER_LIST: OtherList = [
     ],
   },
   {
-    name: "CERTIFICATION",
+    name: "🪪CERTIFICATION",
     example: [
       {
         name: "FE ",

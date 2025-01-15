@@ -10,27 +10,30 @@ import {
 } from "../config/ProfileConfig";
 import { SKILL_LIST } from "../config/SkillConfig";
 import ContentLayout from "../layouts/ContentLayout";
+import PageTransitionLayout from "../layouts/PageTransitionLayout";
 
 const about = () => {
   return (
-    <ContentLayout title="ABOUT">
-      <>
-        <section className="mb-10">
-          <Profile
-            images={PROFILE_IMAGES}
-            imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
-            name={PROFILE_NAME}
-            baseInfoMap={PROFILE_BASE_INFO_MAP}
-          />
-        </section>
-        <section className="mb-10">
-          <Skill list={SKILL_LIST} />
-        </section>
-        <section>
-          <Other list={OTHER_LIST} />
-        </section>
-      </>
-    </ContentLayout>
+    <PageTransitionLayout>
+      <ContentLayout title="ABOUT">
+        <>
+          <section className="mb-10">
+            <Profile
+              images={PROFILE_IMAGES}
+              imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
+              name={PROFILE_NAME}
+              baseInfoMap={PROFILE_BASE_INFO_MAP}
+            />
+          </section>
+          <section className="mb-10">
+            <Skill list={SKILL_LIST} />
+          </section>
+          <section>
+            <Other list={OTHER_LIST} />
+          </section>
+        </>
+      </ContentLayout>
+    </PageTransitionLayout>
   );
 };
 
