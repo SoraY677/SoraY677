@@ -61,13 +61,8 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
             <tbody>
               {Object.keys(baseInfoMap).map((key, index) => {
                 return (
-                  <tr
-                    key={key}
-                    className={` ${
-                      index % 2 === 1 ? "bg-primary" : "bg-gray-200"
-                    }`}
-                  >
-                    <th className="p-2 border-r-2 border-gray-400">{key}</th>
+                  <tr key={key}>
+                    <th className="p-2 border-r-2">{key}</th>
                     <td className=" p-2">{baseInfoMap[key]}</td>
                   </tr>
                 );
