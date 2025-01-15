@@ -5,5 +5,5 @@ export const META_DESCRIPTION =
 export const META_TWITTER_CARD_TYPE = "summary";
 export const META_APP_ICON_PATH = "/app-icon.png";
 export const META_APP_ICON_URL = `${`https://${
-  process.env.NEXT_PUBLIC_VERCEL_URL ?? "localhost:3000"
+  process.env.DOMAIN_HOST ?? "localhost:3000"
 }`}${META_APP_ICON_PATH}`;
