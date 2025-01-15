@@ -4,4 +4,4 @@ type Route = {
   icon: () => React.ReactElement;
 };
 
-type Routes = Route[];
+export type Routes = Route[];

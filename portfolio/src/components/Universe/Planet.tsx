@@ -5,18 +5,16 @@ import { TextureLoader } from "three";
 type Props = {
   texturePath: string;
   size: number;
-  rotateSpped?: number;
+  rotateSpeed?: number;
 };
 
-const Planet = ({ texturePath, size, rotateSpped = 0.001 }: Props) => {
+const Planet = ({ texturePath, size, rotateSpeed = 0.001 }: Props) => {
   const earthMap = useLoader(TextureLoader, texturePath);
 
   const [rotateY, setRotateY] = useState(0.0);
-  if (rotateSpped) {
-    useFrame(() => {
-      setRotateY(rotateY + rotateSpped);
-    });
-  }
+  useFrame(() => {
+    setRotateY(rotateY + rotateSpeed);
+  });
 
   return (
     <mesh

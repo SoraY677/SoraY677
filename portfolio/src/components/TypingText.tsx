@@ -1,24 +1,24 @@
 import { useEffect, useState } from "react";
+import { TYPING_SPEED_MS } from "../config/TopConfig";
 
 type Props = {
   text: string;
+  typingSpeedMs?: number;
 };
 
-const TypingText = ({ text }: Props) => {
+const TypingText = ({ text, typingSpeedMs = TYPING_SPEED_MS }: Props) => {
   const [typedText, setTypedText] = useState<string>("");
 
-  const typeText = (textAll: string, length: number = 1) => {
-    const randomInterval = Math.floor(Math.random() * 350) + 50;
-    if (length > textAll.length) return;
-    setTimeout(() => {
-      setTypedText(textAll.slice(0, length));
-      typeText(textAll, length + 1);
-    }, randomInterval);
-  };
+  const sleep = (ms: number) =>
+    new Promise((resolve) => setTimeout(resolve, ms));
 
   useEffect(() => {
-    if (text) typeText(text);
-  }, [text]);
+    (async () => {
+      await sleep(typingSpeedMs);
+      const currentText = `${text.slice(0, typedText.length + 1)}`;
+      setTypedText(currentText);
+    })();
+  }, [typedText, typingSpeedMs, text]);
 
   return <span>{typedText}</span>;
 };

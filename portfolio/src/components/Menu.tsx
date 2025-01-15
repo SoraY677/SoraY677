@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import AppIcon from "../assets/AppIcon";
 import useIsClientHook from "../hooks/useIsClientHook";
 import { calcMenuItemPosList } from "../logic/Menu";
 import Link from "next/link";
+import { Routes } from "../types/route";
 
 const ANIMATION_DURATION_MS = 3000;
 const DISTANCE_MAGNIFICATION = 1.4;
@@ -26,23 +27,28 @@ const Menu = ({ routes = [] }: Props) => {
   const [firstItem, setFirstItem] = useState<HTMLLIElement | null>(null);
   const firstItemRef = useRef<HTMLLIElement | null>(null);
   firstItemRef.current = firstItem;
-  const setMenuItemPosListHandler = () => {
-    setMenuItemPosList(
-      calcMenuItemPosList(
-        (firstItemRef.current?.getBoundingClientRect().width ?? 0) *
-          DISTANCE_MAGNIFICATION,
-        routes.length,
-        ADJUST_MAGNIFICATION
-      )
-    );
-  };
+  const setMenuItemPosListHandler = useCallback(
+    (element: HTMLElement) => {
+      if (routes.length == 0) return;
+      setMenuItemPosList(
+        calcMenuItemPosList(
+          (element.getBoundingClientRect().width ?? 0) * DISTANCE_MAGNIFICATION,
+          routes.length,
+          ADJUST_MAGNIFICATION
+        )
+      );
+    },
+    [routes.length]
+  );
+
   useEffect(() => {
-    if (!firstItemRef.current) return;
-    setMenuItemPosListHandler();
+    if (!firstItem) return;
+    setMenuItemPosListHandler(firstItem);
     window.addEventListener("resize", () => {
-      setMenuItemPosListHandler();
+      if (!firstItemRef.current) return;
+      setMenuItemPosListHandler(firstItemRef.current);
     });
-  }, [firstItemRef.current]);
+  }, [firstItem, setMenuItemPosListHandler]);
 
   if (!isClient) return <></>;
   return (

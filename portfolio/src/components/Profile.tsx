@@ -1,5 +1,5 @@
-import { useState } from "react";
-import useIntervalHook from "../hooks/useInterval.Hook";
+import { useEffect, useState } from "react";
+import Image from "next/image";
 
 type Props = {
   images: string[];
@@ -11,9 +11,13 @@ type Props = {
 const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
   const [displayedImageIndex, setDisplayedImageIndex] = useState<number>(0);
 
-  useIntervalHook(() => {
-    setDisplayedImageIndex((displayedImageIndex + 1) % images.length);
-  }, imageFadeDuration);
+  useEffect(() => {
+    const interval = setInterval(
+      () => setDisplayedImageIndex((displayedImageIndex + 1) % images.length),
+      imageFadeDuration || 0
+    );
+    return () => clearInterval(interval);
+  }, [displayedImageIndex, images.length, imageFadeDuration]);
 
   return (
     <div>
@@ -37,11 +41,12 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
                 }}
                 key={image}
               >
-                <img
+                <Image
                   src={image}
                   width={64}
                   height={64}
                   key={image}
+                  alt=""
                   className="w-full"
                 />
               </li>

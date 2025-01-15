@@ -1,6 +1,5 @@
-import Link from "next/link";
+import Image from "next/image";
 import { SkillGroup, SkillList, SkillSingle } from "../types/skill";
-import { color } from "three/tsl";
 
 type Props = {
   list: SkillList;
@@ -72,7 +71,7 @@ const SkillSingleContainer = ({
   return (
     <div className="flex gap-2 items-center">
       <div className="flex w-16 h-16 p-2 justify-center items-center aspect-square">
-        <img
+        <Image
           src={item.image}
           width={64}
           height={64}

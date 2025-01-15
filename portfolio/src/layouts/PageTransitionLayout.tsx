@@ -1,7 +1,6 @@
 import { ReactElement, useEffect, useRef, useState } from "react";
 import { Transition } from "react-transition-group";
 import { PAGE_TRANSITION_STYLE } from "../config/PageTransitionConfig";
-import { useRouter } from "next/router";
 
 type Props = {
   children: ReactElement;
@@ -13,7 +12,7 @@ const PageTransitionLayout = ({ children }: Props) => {
   useEffect(() => {
     setIsStart(true);
   }, []);
-  const router = useRouter();
+
   return (
     <div>
       <Transition nodeRef={ref} in={isStart} timeout={3000}>
