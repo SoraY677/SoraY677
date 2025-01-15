@@ -1,6 +1,6 @@
 <div align="center">
  
-# Sora YAMAGUCHI
+# [Sora YAMAGUCHI](https://soray677.vercel.app/)
  
 <img src="https://avatars.githubusercontent.com/u/46548311?s=120&v=4"  width="80"/>
  
@@ -13,10 +13,10 @@
 <img src="https://cdn.svgporn.com/logos/python.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/aws.svg" width="60">
 
+# [👉 Portfolio (About me more!) 👈](https://soray677.vercel.app/)
 
 <br><br>
 
----
 
 ### [📬 Free to Contact me!](https://forms.gle/huP4UNecBm36ir7dA)
 
