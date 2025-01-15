@@ -13,16 +13,17 @@
 <img src="https://cdn.svgporn.com/logos/python.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/aws.svg" width="60">
 
-# [👉 Portfolio (About me more!) 👈](https://soray677.vercel.app/)
+</div>
 
-<br><br>
+# Portfolio
+[<img src="https://github.com/user-attachments/assets/da9fcaa3-d8d4-46bc-bed0-d10f0168f169" />](https://soray677.vercel.app/)
 
 
+<div align="center">
+ 
 ### [📬 Free to Contact me!](https://forms.gle/huP4UNecBm36ir7dA)
 
-
-
-<br><br>
+<br>
 
 [![](./profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
