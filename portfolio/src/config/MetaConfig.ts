@@ -1,4 +1,5 @@
-export const META_TITLE = "Sora's Portfolio - エンジニアポートフォリオ";
+export const META_TITLE_BASE =
+  "Sora's Portfolio - SoraY677のエンジニアポートフォリオ";
 export const META_DESCRIPTION =
   "こんにちは!Soraと申します。形式や固定概念にとらわれずITに関するお悩みあれこれの解決に挑んでます。悩み事はお気軽にご相談ください!";
 export const META_TWITTER_CARD_TYPE = "summary";
