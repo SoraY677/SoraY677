@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import AppIcon from "../assets/AppIcon";
 import useIsClientHook from "../hooks/useIsClientHook";
-import Link from "next/link";
 import { calcMenuItemPosList } from "../logic/Menu";
+import Link from "next/link";
 
 const ANIMATION_DURATION_MS = 3000;
 const DISTANCE_MAGNIFICATION = 1.4;
@@ -54,9 +54,6 @@ const Menu = ({ routes = [] }: Props) => {
               key={`${route.path}-${index}`}
               ref={(node) => {
                 setFirstItem(node);
-              }}
-              onResize={() => {
-                console.log("test");
               }}
               className={`absolute duration-100 ${
                 isOpen ? "opacity-100 z-10" : "opacity-0 z-[-1]"
