@@ -59,7 +59,7 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
           </h2>
           <table className="w-full">
             <tbody>
-              {Object.keys(baseInfoMap).map((key, index) => {
+              {Object.keys(baseInfoMap).map((key) => {
                 return (
                   <tr key={key}>
                     <th className="p-2 border-r-2">{key}</th>
