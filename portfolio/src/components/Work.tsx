@@ -30,8 +30,8 @@ const WorkSingleContainer = ({ item }: { item: WorkSingle }) => {
       <div className="min-w-1/2 max-w-48 w-full md:min-w-24 md:w-px aspect-square">
         <Image
           src={item.path}
-          width={64}
-          height={64}
+          width={512}
+          height={512}
           alt=""
           className="w-full"
         />

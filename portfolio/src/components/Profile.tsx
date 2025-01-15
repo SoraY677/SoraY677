@@ -43,8 +43,8 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
               >
                 <Image
                   src={image}
-                  width={64}
-                  height={64}
+                  width={512}
+                  height={512}
                   key={image}
                   alt=""
                   className="w-full"
