@@ -1,6 +1,6 @@
 import Menu from "../components/Menu";
 import Universe from "../components/Universe/index";
-import { routeList } from "../config/MenuConfig";
+import { ROUTE_LIST } from "../config/MenuConfig";
 import {
   CAMERA_DEFAULT_POSITION_Z,
   CAMERA_ZOOM_MAX,
@@ -34,7 +34,7 @@ export default function CommonLayout({ children }: Props) {
         {children}
       </div>
       <nav className="absolute right-0 bottom-0 text-lg md:mb-10 md:mr-10 mb-5 mr-8">
-        <Menu routes={routeList} />
+        <Menu routes={ROUTE_LIST} />
       </nav>
     </main>
   );

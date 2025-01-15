@@ -14,7 +14,7 @@ const Other = ({ list }: Props) => {
           return (
             <li
               key={otherGroup.name}
-              className="ml-2 pt-1 pb-1 w-full border-black"
+              className="ml-2 pt-1 pb-1 w-full border-secondary"
             >
               <OtherGroupContainer item={otherGroup} />
             </li>

@@ -1,7 +1,7 @@
 type Route = {
   path: string;
   text: string;
-  icon: () => React.ReactElement;
+  icon: ({ fillStyle }: { fillStyle: string }) => React.ReactElement;
 };
 
 export type Routes = Route[];

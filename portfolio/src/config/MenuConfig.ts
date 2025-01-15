@@ -1,8 +1,9 @@
 import IdeaIcon from "../assets/IdeaIcon";
 import MailIcon from "../assets/MailIcon";
 import ProfileIcon from "../assets/ProfileIcon";
+import { Routes } from "../types/route";
 
-export const routeList = [
+export const ROUTE_LIST: Routes = [
   { text: "about", path: "/about", icon: ProfileIcon },
   { text: "works", path: "/works", icon: IdeaIcon },
   {

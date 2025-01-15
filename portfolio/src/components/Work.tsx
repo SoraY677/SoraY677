@@ -25,7 +25,7 @@ const WorkSingleContainer = ({ item }: { item: WorkSingle }) => {
     <Link
       href={item.url}
       target="_blank"
-      className="flex flex-col md:flex-row items-center gap-3 md:gap-4 shadow-lg p-2 rounded-md bg-white"
+      className="flex flex-col md:flex-row items-center gap-3 md:gap-4 shadow-lg p-2 rounded-md bg-primary"
     >
       <div className="min-w-1/2 max-w-48 w-full md:min-w-24 md:w-px aspect-square">
         <Image
@@ -37,7 +37,7 @@ const WorkSingleContainer = ({ item }: { item: WorkSingle }) => {
         />
       </div>
       <div className="flex-auto">
-        <h2 className="flex justify-between pb-1 mb-2 border-b-2 border-black">
+        <h2 className="flex justify-between pb-1 mb-2 border-b-2 border-secondary">
           <span className="text-lg font-bold">{item.title}</span>
           <span className="underline">🔗リンク</span>
         </h2>

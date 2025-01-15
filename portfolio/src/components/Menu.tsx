@@ -73,7 +73,7 @@ const Menu = ({ routes = [] }: Props) => {
               }}
             >
               <div
-                className="flex items-center justify-center bg-white text-black rounded-full aspect-square animate-floating md:w-[96px] w-[64px] p-2"
+                className="flex items-center justify-center bg-primary text-secondary rounded-full aspect-square animate-floating md:w-[96px] w-[64px] p-2"
                 style={{
                   animationDelay: `${
                     (index * ANIMATION_DURATION_MS) / routes.length
@@ -89,7 +89,7 @@ const Menu = ({ routes = [] }: Props) => {
                   }
                 >
                   <div className="w-1/2">
-                    <route.icon />
+                    <route.icon fillStyle="fill-secondary" />
                   </div>
                   <span className=" leading-3 md:text-lg text-md">
                     {route.text}
@@ -104,10 +104,10 @@ const Menu = ({ routes = [] }: Props) => {
         onClick={() => {
           setIsOpen(!isOpen);
         }}
-        className="flex justify-center items-center rounded-full bg-white w-[3rem] md:w-[5rem] z-50 aspect-square"
+        className="flex justify-center items-center rounded-full bg-primary fill-secondary stroke-secondary w-[3rem] md:w-[5rem] z-50 aspect-square"
       >
         <div className="p-1 md:p-0">
-          <AppIcon color="black" />
+          <AppIcon strokeStyle="stroke-secondary" fillStyle="fill-secondary" />
         </div>
       </button>
     </div>

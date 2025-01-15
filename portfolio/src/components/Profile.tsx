@@ -54,7 +54,7 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
           })}
         </ul>
         <section className="flex-auto">
-          <h2 className="text-xl border-b-2 border-b-black w-full mb-2 pb-3">
+          <h2 className="text-xl border-b-2 border-b-secondary w-full mb-2 pb-3">
             {name}
           </h2>
           <table className="w-full">
@@ -64,7 +64,7 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
                   <tr
                     key={key}
                     className={` ${
-                      index % 2 === 1 ? "bg-white" : "bg-gray-200"
+                      index % 2 === 1 ? "bg-primary" : "bg-gray-200"
                     }`}
                   >
                     <th className="p-2 border-r-2 border-gray-400">{key}</th>
