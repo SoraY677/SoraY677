@@ -1,14 +1,23 @@
 import { useEffect, useState } from "react";
 import Image from "next/image";
+import Link from "next/link";
+import { ProfileExternalLinks } from "../types/about";
 
 type Props = {
   images: string[];
   imageFadeDuration: number;
   name: string;
+  profileExternalLinks: ProfileExternalLinks;
   baseInfoMap: { [key: string]: string };
 };
 
-const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
+const Profile = ({
+  images,
+  imageFadeDuration,
+  name,
+  profileExternalLinks,
+  baseInfoMap,
+}: Props) => {
   const [displayedImageIndex, setDisplayedImageIndex] = useState<number>(0);
 
   useEffect(() => {
@@ -54,9 +63,25 @@ const Profile = ({ images, imageFadeDuration, name, baseInfoMap }: Props) => {
           })}
         </ul>
         <section className="flex-auto">
-          <h2 className="text-xl border-b-2 border-b-secondary w-full mb-2 pb-3">
-            {name}
-          </h2>
+          <div className="flex justify-between border-b-2 border-b-secondary ">
+            <h2 className="text-xl w-full mb-2 pb-3">{name}</h2>
+            <ul>
+              {profileExternalLinks.map((link) => {
+                return (
+                  <li key={`profile-external-link-${link.name}`}>
+                    <Link href={link.url} target="_blank">
+                      <Image
+                        src={link.imgPath}
+                        width="32"
+                        height="32"
+                        alt={link.name}
+                      />
+                    </Link>
+                  </li>
+                );
+              })}
+            </ul>
+          </div>
           <table className="w-full">
             <tbody>
               {Object.keys(baseInfoMap).map((key) => {

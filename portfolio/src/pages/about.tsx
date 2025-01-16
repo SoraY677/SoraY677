@@ -5,6 +5,7 @@ import Skill from "../components/Skills";
 import { OTHER_LIST } from "../config/OtherConfig";
 import {
   PROFILE_BASE_INFO_MAP,
+  PROFILE_EXTERNAL_LINK,
   PROFILE_IMAGE_FADE_DURATION,
   PROFILE_IMAGES,
   PROFILE_NAME,
@@ -28,6 +29,7 @@ const about = () => {
                 images={PROFILE_IMAGES}
                 imageFadeDuration={PROFILE_IMAGE_FADE_DURATION}
                 name={PROFILE_NAME}
+                profileExternalLinks={PROFILE_EXTERNAL_LINK}
                 baseInfoMap={PROFILE_BASE_INFO_MAP}
               />
             </section>

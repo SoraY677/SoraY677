@@ -1,4 +1,5 @@
 import { getAge } from "../logic/profile";
+import { ProfileExternalLinks } from "../types/about";
 
 export const PROFILE_IMAGES = [
   "https://noted.run/wp-content/uploads/2024/07/B0008382-1.webp",
@@ -7,6 +8,13 @@ export const PROFILE_IMAGES = [
 export const PROFILE_IMAGE_FADE_DURATION = 5000;
 
 export const PROFILE_NAME = "SoraY";
+export const PROFILE_EXTERNAL_LINK: ProfileExternalLinks = [
+  {
+    name: "GitHub",
+    imgPath: "/skill/github.svg",
+    url: "https://github.com/SoraY677",
+  },
+];
 export const PROFILE_BASE_INFO_MAP = {
   BIRTH: `1998.11.19 (${getAge("1998-11-19")} years old)`,
   ADDRESS: `Kanagawa, Japan.`,
