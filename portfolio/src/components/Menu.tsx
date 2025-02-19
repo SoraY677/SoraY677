@@ -48,6 +48,10 @@ const Menu = ({ routes = [] }: Props) => {
       if (!firstItemRef.current) return;
       setMenuItemPosListHandler(firstItemRef.current);
     });
+    window.addEventListener("DOMContentLoaded", () => {
+      if (!firstItemRef.current) return;
+      setMenuItemPosListHandler(firstItemRef.current);
+    });
   }, [firstItem, setMenuItemPosListHandler]);
 
   if (!isClient) return <></>;
