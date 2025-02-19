@@ -8,6 +8,7 @@ import { Routes } from "../types/route";
 const ANIMATION_DURATION_MS = 3000;
 const DISTANCE_MAGNIFICATION = 1.4;
 const ADJUST_MAGNIFICATION = 1.0;
+const MAX_MENU_ITEM_SIZE = 96;
 
 type Props = {
   routes?: Routes;
@@ -32,7 +33,10 @@ const Menu = ({ routes = [] }: Props) => {
       if (routes.length == 0) return;
       setMenuItemPosList(
         calcMenuItemPosList(
-          (element.getBoundingClientRect().width ?? 0) * DISTANCE_MAGNIFICATION,
+          Math.min(
+            element.getBoundingClientRect().width ?? MAX_MENU_ITEM_SIZE,
+            MAX_MENU_ITEM_SIZE
+          ) * DISTANCE_MAGNIFICATION,
           routes.length,
           ADJUST_MAGNIFICATION
         )
