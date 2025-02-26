@@ -13,6 +13,11 @@
 <img src="https://cdn.svgporn.com/logos/python.svg" width="60">
 <img src="https://cdn.svgporn.com/logos/aws.svg" width="60">
 
+# [✉ Contact Form](https://forms.gle/huP4UNecBm36ir7dA) 
+
+<br />
+<br />
+
 </div>
 
 # Portfolio
@@ -20,8 +25,6 @@
 
 
 <div align="center">
- 
-### [📬 Free to Contact me!](https://forms.gle/huP4UNecBm36ir7dA)
 
 <br>
 
