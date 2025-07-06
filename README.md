@@ -4,7 +4,7 @@
  
 # Sora YAMAGUCHI
 
-### [<img src="https://github.com/user-attachments/assets/3aa36f2b-9cc7-42da-9665-45de3d0da4d0" height="16"> PORTFOLIO <img src="https://github.com/user-attachments/assets/3aa36f2b-9cc7-42da-9665-45de3d0da4d0" height="16">](https://raxsy.life/member/SoraY677)
+### [<img src="https://github.com/user-attachments/assets/3aa36f2b-9cc7-42da-9665-45de3d0da4d0" height="16" style="height:16px;"> PORTFOLIO <img src="https://github.com/user-attachments/assets/3aa36f2b-9cc7-42da-9665-45de3d0da4d0" height="16" style="height:16px;">](https://raxsy.life/member/SoraY677)
 
 <br>
 <div>
