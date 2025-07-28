@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/SoraY677/SoraY677/main/profile-summary-card-output/onedark/4-productive-time.svg)
-```
-
-    
